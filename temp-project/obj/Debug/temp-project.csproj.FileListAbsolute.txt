@@ -1,2 +1,10 @@
 C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\temp-project\bin\Debug\temp-project.exe.config
 C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\bin\Debug\temp-project.exe.config
+C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\bin\Debug\temp-project.exe
+C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\bin\Debug\temp-project.pdb
+C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\obj\Debug\temp-project.csprojResolveAssemblyReference.cache
+C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\obj\Debug\temp_project.Form1.resources
+C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\obj\Debug\temp_project.Properties.Resources.resources
+C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\obj\Debug\temp-project.csproj.GenerateResource.Cache
+C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\obj\Debug\temp-project.exe
+C:\Users\Sinojon\Desktop\projects\my-temp-project\temp-project\obj\Debug\temp-project.pdb
