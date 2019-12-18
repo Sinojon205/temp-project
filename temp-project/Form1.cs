@@ -21,5 +21,11 @@ namespace temp_project
         {
             MessageBox.Show("File modified");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("File modified in new brunch");
+
+        }
     }
 }
